@@ -1,5 +1,5 @@
 [package]
-name = "glfw"
+name = "glfm"
 version = "0.1.0"
 authors = ["mike <Michael.R.Ditto@gmail.com>"]
 
