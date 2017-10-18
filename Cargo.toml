@@ -1,0 +1,6 @@
+[package]
+name = "glfw"
+version = "0.1.0"
+authors = ["mike <Michael.R.Ditto@gmail.com>"]
+
+[dependencies]
